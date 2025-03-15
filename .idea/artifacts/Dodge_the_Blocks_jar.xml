@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dodge the Blocks:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dodge_the_Blocks_jar</output-path>
+    <root id="archive" name="Dodge the Blocks.jar">
+      <element id="module-output" name="Dodge the Blocks" />
+    </root>
+  </artifact>
+</component>
